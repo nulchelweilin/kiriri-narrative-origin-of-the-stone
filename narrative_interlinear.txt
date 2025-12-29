@@ -1,0 +1,24 @@
+t͡ʃaːɾa   putujara   ʔiːʂa   ʈ͡ʂaːkʰa   kʰaɾi.
+long.ago stone      LOC     ancestor  see
+'Long ago, the ancestor saw the stone.'
+
+ʈ͡ʂaːkʰa   putujara   ʂaːɾi.
+ancestor  stone      take
+'The ancestor took the stone.'
+
+putujara   kʰuːɾa   ʔiːʂa   ʔaːʈʰa.
+stone      hill     LOC     place
+'He placed the stone on the hill.'
+
+kʰuːɾa   ʔiːʂa   putujara   ʈ͡ʂaːkʰa   ɾaːkʰa.
+hill     LOC     stone      ancestor  go
+<!-- Resolves #1: gloss 'stone' used (cultural significance noted in lexicon). -->
+'The ancestor went to the hill with the stone.'
+
+ʔaːkʷa   ʂaːɾi   ʔiːʂa   ʔaːʈʰa.
+river    take    LOC     place
+'He placed (it) in the river.'
+
+t͡ʃaːɾa   putujara   ʔiːʂa   ʈ͡ʂaːkʰa   kʰaɾi.
+long.ago stone      LOC     ancestor  see
+'Long ago, the ancestor saw the stone.'
